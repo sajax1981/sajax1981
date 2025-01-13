@@ -1,4 +1,5 @@
-### Hi there👻
+### Hi there👻Wellcome to my WORLD
+Student software engineer - Python
 
 <!--
 **sajax1981/sajax1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
